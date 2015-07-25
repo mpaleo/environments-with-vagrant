@@ -1,0 +1,6 @@
+---
+box: "ubuntu/trusty32"
+vm_name: "vagrant_quickstart"
+ip: "192.168.10.10"
+memory: 512
+cpus: 1
